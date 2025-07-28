@@ -14,4 +14,4 @@ Made with TouchDesigner, this project offers a visual representation of a halluc
 Originating from Chinese texts meaning "dark" or "mysterious", yūgen can be understood as referring to the depth and subtle beauty of our world through imagination. This beauty is felt rather than clearly seen- beyond logic and conscious control. Yūgen emphasizes allusion over explicitness, inviting emotional thoughts through mystery. 
 
 ## PROJECT: https://maggient.github.io/Hallucinations/
-In the case that the file is not available on the website, please download "HallucinationProject_MaggieNguyen.zip" to view project 
+In the case that the file is not available on the website, please download "HallucinationProject_MaggieNguyen.zip" to view project. If the project does not load, please make sure that the TouchDesigner software is downloaded on computer. 
