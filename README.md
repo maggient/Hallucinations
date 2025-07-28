@@ -6,3 +6,5 @@ This project contains flashing lights and rapidly changing colors. Viewer discre
 
 ## About this project: 
 Made with TouchDesigner, this project offers a visual representation of a hallucination from a first-person perspective. As cannabis is strictly illegal in Japan today, it has historically held significance in religious and ritual contexts. This work helps users imagine how the visual experience of being under the influence of cannabis might appear within sacred Japanese settings. 
+
+## PROJECT: https://maggient.github.io/Hallucinations/
