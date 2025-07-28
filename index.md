@@ -76,15 +76,23 @@ function draw() {
   } else {
     fill(255); //white text
   }
-  
-  textSize(115); //font size
-  textAlign(CENTER, CENTER); //aligns text
-  
-    if (userInput) {
-    text(userInput.toUpperCase(), width / 2, height / 2); //makes letters uppercase 
+
+    textAlign(CENTER, CENTER);
+
+  if (userInput) {
+    textSize(60);
+    text("HELLO " + userInput.toUpperCase(), width / 2, height / 2 - 30);
+    
+    textSize(28);
+    text("Please download the TouchDesigner file", width / 2, height / 2 + 40);
   } else {
-    text("HELLO USER", width / 2, height / 2);
+    textSize(60);
+    text("HELLO USER", width / 2, height / 2 - 30);
+
+    textSize(28);
+    text("Please download the TouchDesigner file", width / 2, height / 2 + 40);
   }
+
 } //end of Rainbow Squares
 
 
