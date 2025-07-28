@@ -80,10 +80,10 @@ function draw() {
     textAlign(CENTER, CENTER);
 
   if (userInput) {
-    textSize(60);
+    textSize(80);
     text("HELLO " + userInput.toUpperCase(), width / 2, height / 2 - 30);
     
-    textSize(28);
+    textSize(40);
     text("Please download the TouchDesigner file", width / 2, height / 2 + 40);
   } else {
     textSize(60);
