@@ -1,6 +1,6 @@
 title: "Maggie Nguyen"
 description: "CRCP3360 Web Portfolio Development"
-remote_theme: "pages-themes/hacker@v0.2.0"
+remote_theme: "pages-themes/minimal@v0.2.0"
 plugins:
   - jekyll-remote-theme
   - github-pages
