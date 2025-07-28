@@ -10,6 +10,7 @@ Made with TouchDesigner, this project offers a visual representation of a halluc
 ## Japanese Yūgen 
 幽玄とは、対象そのものにあるのではなく、人に喚起される感情の中にある
 “Yūgen is not in the things themselves but in the feeling they evoke.” 
--Daisetz T. Suzuki, Zen scholar and writer 
+-Daisetz T. Suzuki, Zen scholar and writer. 
+Originating from Chinese texts meaning "dark" or "mysterious", yūgen can be understood as referring to the depth and subtle beauty of our world through imagination. This beauty is felt rather than clearly seen- beyond logic and conscious control. Yūgen emphasizes allusion over explicitness, inviting emotional thoughts through mystery. 
 
 ## PROJECT: https://maggient.github.io/Hallucinations/
