@@ -8,6 +8,7 @@
     <h1>Maggie Nguyen</h1>
     <p>Welcome to Maggie Nguyen's page.</p>
     <p>TouchDesigner Download File.</p>
+    <p><a href="HallucinationProject_MaggieNguyen.zip" download>Click here to download the Hallucination Project ZIP file</a></p>
     <script>
 //Maggie Nguyen - Rainbow Squares 
 let userInput = ""; //stores input 
