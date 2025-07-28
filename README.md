@@ -13,6 +13,7 @@ Made with TouchDesigner, this project offers a visual representation of a halluc
 -Daisetz T. Suzuki, Zen scholar and writer. 
 Originating from Chinese texts meaning "dark" or "mysterious", yūgen can be understood as referring to the depth and subtle beauty of our world through imagination. This beauty is felt rather than clearly seen- beyond logic and conscious control. Yūgen emphasizes allusion over explicitness, inviting emotional thoughts through mystery. 
 
-## PROJECT: https://maggient.github.io/Hallucinations/
 ## User Notes
 In the case that the file is not available on the website, please download "HallucinationProject_MaggieNguyen.zip" to view the project. If the project does not load, please make sure that the TouchDesigner software is installed on the computer. Users are encouraged to input their own media and mess around with the parameters. To present the final presentation, navigate to "window1" and navigate down to "Open as Perform Window". Enjoy! 
+
+## PROJECT: https://maggient.github.io/Hallucinations/
